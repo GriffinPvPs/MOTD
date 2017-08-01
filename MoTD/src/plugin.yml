@@ -1,0 +1,4 @@
+name: MOTD
+main: org.itsmonkey.motd.motd
+version: 0.0.1
+author: ItsMonkay
